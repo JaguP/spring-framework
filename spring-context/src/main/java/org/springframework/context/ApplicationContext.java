@@ -29,8 +29,16 @@ import org.springframework.core.env.EnvironmentCapable;
 import org.springframework.core.io.support.ResourcePatternResolver;
 import org.springframework.lang.Nullable;
 
+<<<<<<< HEAD
+
 
 //From F1
+
+// From F2
+
+=======
+// From F2
+>>>>>>> branch 'F2' of https://github.com/JaguP/spring-framework.git
 
 /**
  * Central interface to provide configuration for an application.
