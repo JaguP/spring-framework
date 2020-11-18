@@ -18,7 +18,7 @@ package org.springframework.context;
 //A3 Conflicting changes
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.Aware;
-
+//A4s conflicting changes
 /**
  * Interface to be implemented by any object that wishes to be notified
  * of the {@link ApplicationContext} that it runs in.
