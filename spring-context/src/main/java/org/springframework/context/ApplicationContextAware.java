@@ -19,7 +19,11 @@ package org.springframework.context;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.Aware;
 //A4s conflicting changes
+<<<<<<< HEAD
 //Added from GitHub Direct R2s commit
+=======
+>>>>>>> branch 'A7' of https://github.com/JaguP/spring-framework.git
+//A7s conflicting changes for R2s direct changes
 /**
  * Interface to be implemented by any object that wishes to be notified
  * of the {@link ApplicationContext} that it runs in.
