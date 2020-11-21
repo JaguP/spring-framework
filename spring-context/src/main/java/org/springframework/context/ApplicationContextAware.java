@@ -62,8 +62,14 @@ import org.springframework.beans.factory.Aware;
  * @see org.springframework.beans.factory.BeanFactoryAware
  */
 public interface ApplicationContextAware extends Aware {
+<<<<<<< HEAD
 //conflict from remote release branch
 //A8 changes
+=======
+
+
+	//A8 changes
+>>>>>>> branch 'A8' of https://github.com/JaguP/spring-framework.git
 	/**
 	 * Set the ApplicationContext that this object runs in.
 	 * Normally this call will be used to initialize the object.
